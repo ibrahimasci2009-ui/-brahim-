@@ -1,0 +1,4 @@
+module ac_kapa (
+    input wire anahtar, // Giris (Switch) 
+    output wire led    //  Cıkıs (LED) 
+);
